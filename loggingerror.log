@@ -1,0 +1,24 @@
+{"message":"got in the way","stack":"Error: got in the way\n    at C:\\Users\\Admin\\factory-app\\routes\\cuisine.js:10:9\n    at newFn (C:\\Users\\Admin\\factory-app\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\Admin\\factory-app\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\Admin\\factory-app\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\Admin\\factory-app\\node_modules\\express\\lib\\router\\index.js:284:7","level":"error","timestamp":"2020-06-19T04:17:05.662Z"}
+{"message":"something failed during startup","stack":"Error: something failed during startup\n    at Object.<anonymous> (C:\\Users\\Admin\\factory-app\\app.js:32:7)\n    at Module._compile (internal/modules/cjs/loader.js:1133:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1153:10)\n    at Module.load (internal/modules/cjs/loader.js:977:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:877:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:74:12)\n    at internal/main/run_main_module.js:18:47","level":"error","timestamp":"2020-06-19T04:33:02.865Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T06:58:05.307Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:01:03.878Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:03:18.430Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:03:27.758Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:04:02.637Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:05:36.803Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:09:23.598Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:13:46.286Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:22:54.818Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:23:20.809Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:24:04.446Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:24:43.510Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:24:56.948Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:25:21.859Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:25:57.049Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:26:22.551Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T07:26:48.968Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T11:35:28.460Z"}
+{"level":"info","message":"listening on port 3002... ","timestamp":"2020-06-19T11:41:31.706Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T11:41:31.920Z"}
+{"level":"info","message":"listening on port 3002... ","timestamp":"2020-06-19T13:10:54.065Z"}
+{"level":"info","message":"connected to mongodb","timestamp":"2020-06-19T13:10:54.243Z"}
